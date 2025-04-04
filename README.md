@@ -27,3 +27,4 @@ This single-page portfolio showcases my academic background, R programming skill
 - Skill in presenting technical information clearly
 - Commitment to accessible web practices
 
+view my website live at  https://kanestar.github.io/hackathon-submission/
